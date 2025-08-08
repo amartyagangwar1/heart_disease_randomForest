@@ -11,6 +11,10 @@ Heart Disease Cleveland dataset (UCI repository).
 3. Train Random Forest model with OOB scoring
 4. Evaluate on test set
 
-## Results:
+## randomForest Results:
 - Train Accuracy: 1.000
 - Test Accuracy: 0.833
+
+## tuned_randomForest Results:
+- Train Accuracy: 
+- Test Accuracy: 
