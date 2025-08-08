@@ -16,5 +16,5 @@ Heart Disease Cleveland dataset (UCI repository).
 - Test Accuracy: 0.833
 
 ## tuned_randomForest Results:
-- Train Accuracy: 
-- Test Accuracy: 
+- Train Accuracy: 0.861
+- Test Accuracy: 0.833
