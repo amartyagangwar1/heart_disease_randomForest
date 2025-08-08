@@ -5,6 +5,11 @@ from sklearn.model_selection import train_test_split
 #import data
 data = pd.read_csv(r"C:\Users\amart\OneDrive\Documents\Projects\Practice\RandomForestModel\heart_cleveland_upload.csv")
 
+#checking for missing values
+#print(data.head())
+#print(data.isnull().sum())
+
+
 #extract target variable
 y = data['condition']
 
