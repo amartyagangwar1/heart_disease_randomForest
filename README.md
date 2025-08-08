@@ -12,5 +12,5 @@ Heart Disease Cleveland dataset (UCI repository).
 4. Evaluate on test set
 
 ## Results:
-- OOB Score: 83.97%
-- Test Accuracy: 76.67%
+- Train Accuracy: 1.000
+- Test Accuracy: 0.833
